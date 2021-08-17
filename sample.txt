@@ -2,3 +2,4 @@ hello, welcome to git CLI console.
 Nice to meet you!
 
 this is line 1
+this is line 2
